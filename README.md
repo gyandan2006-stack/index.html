@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>CareerGhana Privacy Policy</title></head>
+<head><CareerGhana Privacy Policy></head>
 <body style="font-family: Arial; max-width: 800px; margin: 40px auto; padding: 0 20px;">
 <h1>Privacy Policy — CareerGhana</h1>
 <p>Last updated: March 2026</p>
